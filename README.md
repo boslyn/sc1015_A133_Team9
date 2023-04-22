@@ -12,3 +12,20 @@ Our Jupyter notebook has been organised in the following manner:
 
 ## Problem Statement
 How might we determine if news on online platform is real or fake?
+Which model would be the most suitable in helping us classify if a news article is real or fake?
+
+## Models Explored
+1. Logistic Regression Model
+2. Naive-Bayes Prediction Model
+3. Decision Tree Classifier Model
+4. Passive-Aggressive Classifier Model
+5. Support Vector Machine Classifier Model
+6. Ensemble
+
+## Conclusion
+
+## Takeaways From This Project
+
+## References
+
+## Contributors
