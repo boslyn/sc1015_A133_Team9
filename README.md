@@ -4,6 +4,10 @@ In the age of digitalisation, the rise of fake news has been at an unprecendente
 Our mini project aims to apply what we have learnt in the course to come up with a model to classify if a news article is fake or real.
 
 ## Repository Contents
+- SC1015_Project.ipynb - Jupyter Notebook consisting of all codes (Imported from Google Colab)
+- FakeNewsNet.csv - Dataset used in the project
+- README.md 
+- SC1015 Data Science.pdf - PDF File of slides used in presentation video
 
 
 ## Order of SC1015_Project.ipynb
