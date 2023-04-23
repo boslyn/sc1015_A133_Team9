@@ -52,6 +52,6 @@ https://www.geeksforgeeks.org/ml-logistic-regression-using-python/
 https://www.geeksforgeeks.org/naive-bayes-classifiers/
 
 ## Team Members
-Shen Jia Cheng - Data extraction & preparation  
-Pang Boslyn - Data visualisation & analysis
-Tan Yue Hui - Machine Learning
+- Shen Jia Cheng - Data extraction & preparation  
+- Pang Boslyn - Data visualisation & analysis
+- Tan Yue Hui - Machine Learning
