@@ -6,7 +6,7 @@ Our mini project aims to apply what we have learnt in the course to come up with
 ## Repository Contents
 - SC1015_Project.ipynb - Jupyter Notebook consisting of all codes (Imported from Google Colab)
 - FakeNewsNet.csv - Dataset used in the project
-- README.md - information of this project
+- README.md - Information of this project
 - SC1015 Data Science.pdf - PDF of slides used in presentation video
 
 
@@ -32,7 +32,8 @@ Which model would be the most suitable in helping us classify if a news article 
 ## Conclusion
 - Number of words in title does not have a correlation with whether the news article is real or fake.
 - Number of retweets is not a good predictor of the whether the news article is real or fake.
-- Ensemble model has the highest prediction accuracy of 85.2% out of all models tested.
+-  We can use our Ensemble model to predict the truthfulness of a news article based on the title of that article, as it provided us with the highest accuracy score of 85.2%
+- We conclude that most fake news article uses strong emotional words to get people's attention. Our ensemble model is highly able to detect the usage of such words in fake news titles. 
 - Despite the high accuracy of our model, it would be best coupled with human vetting.
 - As for future recommendations, we can include datasets that are not politically motivated, use other variables (e.g. pictures, no. of words in articles) as predictors and explore other ensemble models, such as stacking, to better improve the accuracy in predicting fake news.
 
